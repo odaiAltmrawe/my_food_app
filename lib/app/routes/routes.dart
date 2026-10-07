@@ -17,4 +17,10 @@ class Routes {
   static const signUp = '/sign-up';
   static const splashScreen = '/splash-screen';
   static const verifyUrNum = '/verify-ur-num';
+  static const verifyUrNum2 = '/verify-ur-num';
+  static const verifyUrNum3 = '/verify-ur-num';
+  static const verifyUrNum4 = '/verify-ur-num';
+  static const verifyUrNum5 = '/verify-ur-num';
+  static const verifyUrNum55 = '/verify-ur-num';
+
 }
